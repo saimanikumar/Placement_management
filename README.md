@@ -61,7 +61,7 @@ To get the Placement Connect app up and running, follow these steps:
    npm run serve
    ```
 
-   The Vue.js frontend will be available at [http://localhost:8080](http://localhost:8080).
+
 
 ### Backend (Flask)
 
@@ -105,7 +105,7 @@ To get the Placement Connect app up and running, follow these steps:
     python app.py
     ```
 
-    The Flask backend will be available at [http://localhost:5000](http://localhost:5000).
+
 
 ## Project Structure
 
