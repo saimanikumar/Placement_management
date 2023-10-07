@@ -45,9 +45,6 @@ from flask_mail import Mail,Message
 
 # app.config['MAIL_USE_TLS'] = True
 
-# app.config['MAIL_USERNAME'] = "smk123test@gmail.com"
-
-# app.config['MAIL_PASSWORD'] = "itur deyu fkni ryvr"
 
 # mail = Mail(app)
 
@@ -59,7 +56,8 @@ api = Api(app)
 CORS(app)
 
 # MongoDB configuration
-client = MongoClient('mongodb+srv://abcd:abcd@placement-management.bs9hn3h.mongodb.net/?retryWrites=true&w=majority', server_api=ServerApi('1'))
+client = MongoClient('y
+connection URL', server_api=ServerApi('1'))
 
 try:
     client.admin.command('ping')
@@ -336,16 +334,16 @@ class DetailsRegisterResource(Resource):
 
             # # Set the recipient email address
             # msg['Subject'] = "Placement_Dept"
-            # msg['From'] = "smk123test@gmail.com"
-            # msg['To'] = "saimanikumar67@gmail.com"
+            # msg['From'] = "t@gmail.com"
+            # msg['To'] = "@gmail.com"
 
             # # # Set up the SMTP server for Gmail
             # # smtp_server = "smtp.gmail.com"
             # # smtp_port = 587
 
             # # Log in to your Gmail account
-            # # username = "smk123test@gmail.com"
-            # # password = "itur deyu fkni ryvr"
+            # # username = "@gmail.com"
+            # # password = ""
 
 
 
