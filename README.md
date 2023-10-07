@@ -12,9 +12,6 @@ Placement Connect is a web application that connects job seekers with potential 
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Development](#development)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -115,14 +112,7 @@ The project structure is as follows:
 - `backend/`: Flask backend code.
 - `docs/`: Documentation files (if any).
 - `requirements.txt`: Python dependencies for the backend.
-- `LICENSE`: Project license.
 
-## Development
 
-Describe any specific development guidelines or processes that contributors should follow here.
-
-## License
-
-This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ---
