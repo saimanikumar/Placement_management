@@ -6,6 +6,9 @@ Creating a comprehensive README file is essential for any project, including you
 
 Placement Connect is a web application that connects job seekers with potential employers. The frontend of the application is built using Vue.js, while the backend is powered by Flask. This README provides an overview of the project, installation instructions, and other important information for developers.
 
+
+# Tech Stack Used - Vuejs, Flask, Flask-Restful(API's), MongoDB, Python, Bootstrap(Responsiveness)
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
