@@ -113,7 +113,6 @@ The project structure is as follows:
 
 - `frontend/`: Vue.js frontend code.
 - `backend/`: Flask backend code.
-- `docs/`: Documentation files (if any).
 - `requirements.txt`: Python dependencies for the backend.
 
 
